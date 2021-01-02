@@ -3,7 +3,7 @@ var count=20
 var gameState ="play";
 function preload(){
   dogimg = loadImage("images/dogImg.png");
-  dogimg2 = loadImage("image/dogImg1.png");
+  dogimg2 = loadImage("images/dogImg1.png");
 }
 
 function setup() {
